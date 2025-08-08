@@ -1,0 +1,17 @@
+War Formation
+
+phase1 :
+ 
+build proper functioning of time dilation model
+with various interactive features
+like reversing the place
+and even changing the speed of light etc..
+
+phase2 :
+
+bulid a interactive interface with great visuals
+using python ui and all
+
+phase3 :
+ 
+do the fine tunning and finishing then post it on reddit and GitHub etc..
